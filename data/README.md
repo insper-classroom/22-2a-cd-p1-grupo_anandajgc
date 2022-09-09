@@ -1,7 +1,3 @@
 # Pasta `data`
 
-Nesta pasta você deve deixar todos os arquivos que servem como **BASE DE DADOS**.
-
-Adicione aqui uma breve descrição dos dados utilizados.
-
-Sinta-se livre para alterar este `README.md`!
+O Projeto 1 usará como fonte de dados o Portal do Bitcoin e o assunto das notícias será "bitcoin".
