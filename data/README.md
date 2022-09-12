@@ -7,4 +7,4 @@ Para muito relevante será considerado: que menciona diretamente o aumento ou qu
 Para relevante será considerado: não fala diretamente sobre as ações mas sim as pessoas que estão envolvidas com elas.
 Para neutras será considerado: empresas comprandos ações, mas não falará sobre as ações em si e os investidores.
 Para irrelevante, será considerado quando a noticícia não cita as ações ou os investidores.
-3
+
